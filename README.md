@@ -104,3 +104,39 @@ There are many tools available that make creating wireframes easier, faster, and
 **Why it’s great for wireframing**:  
 Figma makes it easy to create both low-fidelity and high-fidelity wireframes. It’s fast, flexible, and especially useful for teams working remotely or across different departments.
 
+## Benefits of Wireframing in Software Development
+
+Wireframing isn’t just a design activity—it plays a key role in software development too. A good wireframe serves as a blueprint that guides the entire team, reducing misunderstandings, minimizing rework, and saving time during development.
+
+### 1. Guides the Design Process
+
+Wireframes provide a clear structure and direction from the beginning. Developers can understand the layout, content placement, and user flows without waiting for final visual designs.
+
+**Example**: If the wireframe shows a sidebar navigation and a search bar above property listings, developers can start setting up the layout before final content is ready.
+
+### 2. Facilitates Communication
+
+Wireframes act as a shared visual language between designers, developers, and stakeholders. Everyone can see what’s being built and agree on the structure before coding begins.
+
+**Example**: Instead of long meetings or misinterpreted descriptions, a wireframe can quickly show where the "Book Now" button is placed and how the user gets to the checkout page.
+
+### 3. Identifies Problems Early
+
+Since wireframes are fast and easy to edit, they help teams detect usability or layout issues early—before any code is written.
+
+**Example**: A wireframe may reveal that a booking process takes six steps. The team can simplify it in the design phase, rather than reworking complex code later.
+
+### 4. Saves Time and Resources
+
+It’s far easier (and cheaper) to fix a problem in a wireframe than in a live product. Wireframes help avoid costly late-stage revisions by catching issues early.
+
+**Example**: In one project, moving a CTA button higher in the layout wireframe led to a better user experience and improved conversion—without needing code changes.
+
+### 5. Enables Reusability and Documentation
+
+Wireframes can be documented in a design system or pattern library. This supports consistent UI design and speeds up onboarding for new team members.
+
+---
+
+
+
