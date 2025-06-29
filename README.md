@@ -48,3 +48,33 @@ Functionality refers to how users interact with components like buttons, sliders
 ---
 
 Each of these elements works together to shape the user's experience, helping teams design products that are clear, usable, and effective.
+
+## Types of Wireframes
+
+Wireframes come in different levels of detail, depending on the stage of the design process and the purpose of the wireframe. The two main types are:
+
+### 1. Low-Fidelity Wireframes
+
+These are simple, fast, and usually black-and-white sketches. They focus on layout, structure, and basic user flow—without any detailed content, branding, or visual styling.
+
+**When to Use**:  
+Low-fidelity wireframes are ideal during the early brainstorming or ideation stage. They help teams quickly map out ideas, test basic flows, and gather feedback without worrying about visuals.
+
+**Example**: A wireframe showing boxes for images, placeholder text like "Title Here," and simple arrows to show navigation flow.
+
+---
+
+### 2. High-Fidelity Wireframes
+
+These are more detailed and closely resemble the final product. They often include real content, spacing, visual hierarchy, and interactive elements like buttons or form fields.
+
+**When to Use**:  
+High-fidelity wireframes are useful in later stages of the design process when you're preparing handoffs to developers or getting final approval from stakeholders.
+
+**Example**: A wireframe that includes real images, styled buttons, actual font choices, and refined spacing.
+
+---
+
+## What Type of Wireframe Is Used in This Project?
+
+The wireframe used in this project is a **low-fidelity wireframe**. It focuses on the layout, structure, and basic interaction flow without getting into detailed design or branding. This makes it easy to test ideas early, get quick feedback, and iterate rapidly before moving to visual design.
