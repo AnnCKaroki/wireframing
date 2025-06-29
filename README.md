@@ -78,3 +78,29 @@ High-fidelity wireframes are useful in later stages of the design process when y
 ## What Type of Wireframe Is Used in This Project?
 
 The wireframe used in this project is a **low-fidelity wireframe**. It focuses on the layout, structure, and basic interaction flow without getting into detailed design or branding. This makes it easy to test ideas early, get quick feedback, and iterate rapidly before moving to visual design.
+
+## Popular Wireframing Tools
+
+There are many tools available that make creating wireframes easier, faster, and more collaborative. Some are better for quick sketches, while others are perfect for building full design systems. Below are some of the most widely used wireframing tools:
+
+- **Figma** ✅  
+- **Sketch**  
+- **Adobe XD**  
+- **Balsamiq**  
+- **Draw.io**  
+
+### Why Use Figma?
+
+**Figma** is one of the most popular wireframing and UI/UX design tools in the industry today. It's cloud-based, meaning you can access your files from anywhere and collaborate with others in real time.
+
+**Key Features**:
+- 💬 **Real-Time Collaboration**: Designers, developers, and stakeholders can all work together and give feedback at the same time.
+- 🔁 **Reusable Components**: Create and reuse UI components for consistency across designs.
+- 🌐 **Cloud-Based**: No need to install software; it works on any browser.
+- 🧩 **Plugin Ecosystem**: Add extra functionality like accessibility checkers, icons, mock data, and more.
+- ⏳ **Version History**: Track design changes and roll back if needed.
+- 🎯 **Developer Handoff**: Developers can inspect design specs and export assets directly from Figma.
+
+**Why it’s great for wireframing**:  
+Figma makes it easy to create both low-fidelity and high-fidelity wireframes. It’s fast, flexible, and especially useful for teams working remotely or across different departments.
+
